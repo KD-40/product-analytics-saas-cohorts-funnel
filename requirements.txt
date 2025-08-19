@@ -1,0 +1,9 @@
+Contents:
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+statsmodels
+jupyter
+openpyxl
