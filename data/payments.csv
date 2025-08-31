@@ -1,0 +1,5 @@
+payment_id,account_id,payment_ts,amount,currency,status
+4001,2001,2024-02-18T11:14:17Z,49,USD,paid
+4002,2002,2024-03-05T08:40:03Z,59,GBP,paid
+4003,2004,2024-05-30T11:15:49Z,59,GBP,paid
+4004,2003,2024-06-15T10:00:00Z,0,INR,failed

@@ -1,0 +1,6 @@
+account_id,created_ts,industry,size_bucket,country
+2001,2024-01-02T10:12:00Z,software,11-50,IN
+2002,2024-02-01T08:45:00Z,finance,51-200,GB
+2003,2024-02-15T12:00:00Z,healthcare,1-10,SG
+2004,2024-03-10T09:25:00Z,retail,11-50,AU
+2005,2024-04-18T11:20:00Z,education,200+,IN
